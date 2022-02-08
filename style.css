@@ -40,3 +40,16 @@ h1 {
     border: 5px solid green;
     margin: 20px auto;
 }
+
+.footer {
+    justify-content: center;
+    bottom: 0;
+    margin-left: 600px;
+    gap: 10px;
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+  }
+
+
+  
